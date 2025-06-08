@@ -9,9 +9,7 @@ export const InputContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: flex-end;
-
   font-size: 24px;
-  font-family: "Roboto";
 
   input {
     width: 100%;
@@ -25,7 +23,7 @@ export const InputContainer = styled.div`
     align-items: flex-end;
     padding: 0 10px;
     font-size: 24px;
-    font-family: "Roboto";
+
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
   }
